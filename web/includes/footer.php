@@ -1,4 +1,4 @@
-<footer class="bg-gray-900 text-gray-300 mt-12"> <!-- nam mo a di da phat -->
+<footer class="bg-gray-900 text-gray-300 mt-12"> 
   <div class="container mx-auto grid grid-cols-1 sm:grid-cols-3 gap-8 px-6 py-10">
 
     <!-- Cột 1: Giới thiệu -->
